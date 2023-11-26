@@ -1,1 +1,1 @@
-print('hi nigaz')
+print('hi nigaz and white')
