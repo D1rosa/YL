@@ -1,1 +1,1 @@
-print('hi niga')
+print('hi nigaz')
