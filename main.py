@@ -1,1 +1,1 @@
-print('hi nigaz and whitez and loxs')
+print('hi nigaz and whitez and pidors')
